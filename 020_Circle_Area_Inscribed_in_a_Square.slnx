@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="020_Circle_Area_Inscribed_in_a_Square.vcxproj" />
+  <Project Path="020_Circle_Area_Inscribed_in_a_Square.vcxproj" Id="dd355497-a15b-4eea-9e43-77bc3892b0be" />
 </Solution>
